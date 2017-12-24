@@ -1,0 +1,9 @@
+c:\users\11\documents\visual studio 2015\geek\c#\csh_19.12\csh_19.12\bin\Debug\csh_19.12.exe.config
+c:\users\11\documents\visual studio 2015\geek\c#\csh_19.12\csh_19.12\bin\Debug\csh_19.12.exe
+c:\users\11\documents\visual studio 2015\geek\c#\csh_19.12\csh_19.12\bin\Debug\csh_19.12.pdb
+c:\users\11\documents\visual studio 2015\geek\c#\csh_19.12\csh_19.12\obj\Debug\csh_19.12.csprojResolveAssemblyReference.cache
+c:\users\11\documents\visual studio 2015\geek\c#\csh_19.12\csh_19.12\obj\Debug\csh_19._12.Form1.resources
+c:\users\11\documents\visual studio 2015\geek\c#\csh_19.12\csh_19.12\obj\Debug\csh_19._12.Properties.Resources.resources
+c:\users\11\documents\visual studio 2015\geek\c#\csh_19.12\csh_19.12\obj\Debug\csh_19.12.csproj.GenerateResource.Cache
+c:\users\11\documents\visual studio 2015\geek\c#\csh_19.12\csh_19.12\obj\Debug\csh_19.12.exe
+c:\users\11\documents\visual studio 2015\geek\c#\csh_19.12\csh_19.12\obj\Debug\csh_19.12.pdb
